@@ -5,4 +5,4 @@
 - Auto save feature
 - Renaming backups feature
 - Telegram link on author name (bottom right corner)
-- Link to this changelog in future update popups
+- Link to this changelog
